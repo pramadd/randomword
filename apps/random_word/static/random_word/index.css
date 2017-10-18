@@ -1,0 +1,33 @@
+.head{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 303px;
+    height: 65px;
+    text-align: center;
+    position: relative;
+    left: 393px;
+
+}
+
+.unique{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 447px;
+    height: 119px;
+    text-align: center;
+    position: relative;
+    left: 324px;
+    margin-top: 30px;
+    font-size: -webkit-xxx-large
+}
+
+.btn{
+    width: 63px;
+    height: 16px;
+    box-shadow: 10px 10px 5px #888888;
+    position: relative;
+    left: 500px;
+    top: 25px;
+}
